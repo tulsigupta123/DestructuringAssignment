@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 120px;
+}
+#heading{
+padding-bottom: 18px;
+}
+input{
+    border: 2px solid black;
+    height: 200px;
+    width: 1000px;
+    font-size: 25px;
+}
+#show{
+    font-size: 35px;
+    font-weight: 600;
+}
+.display{
+    border: 2px solid black;
+    height: 70px;
+    width: 1000px;
+    background-color: rgb(0, 0, 255);
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
